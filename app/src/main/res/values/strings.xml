@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework 3</string>
+    <string name="tab_one">Tab 1</string>
+    <string name="tab_two">Tab 2</string>
+    <string name="tab_three">Tab 3</string>
+    <string name="tab_main">Main</string>
+    <string name="button_moreInfo">More Info</string>
+</resources>
